@@ -36,4 +36,8 @@ swa start
 
 Open the URL given by the SWA CLI
 
+The repo can be seen in action [here](https://swa-auth.stacy-clouds.dev/)
+
+## Credits
+
 Blazor integration based on [Anthony Chu Authentication Provider](https://github.com/anthonychu/blazor-auth-static-web-apps)
